@@ -14,3 +14,9 @@ With this Script you can try an AD Authentication against all AD User to check i
 #read_calendar_entries.ps1  
 Read Calendar entries of a mailbox via Exchange EWS and export it to csv.  
 Than you can have fun with the data and a raspberry pi to create a DIY meeting room door sign.
+
+#pst_only_check.ps1  
+Checks a network path recursive to find files which don't have the wanted file extension.  
+In this case: *.pst
+
+
